@@ -41,3 +41,4 @@ def blueprints_finder(way):
 if __name__ == "__main__":
     mode_checker()
     blueprints_finder(way)
+    print("It's working")
